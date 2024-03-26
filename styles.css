@@ -37,9 +37,9 @@ h1 {
   color: white;
   position: absolute;
   top: 50%;
-  left: 49.9%;
+  left: 49.7%;
   transform: translate(-50%, -50%);
-  font-size: 24px;
+  font-size: 30px;
 }
 
 .trash_area {
