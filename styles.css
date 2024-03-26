@@ -49,6 +49,17 @@ h1 {
 }
 
 .trash_can {
-  width: 300px;
+  width: 500px;
+  height: auto;
+}
+
+.plant_area {
+  position: absolute;
+  top: 15%;
+  left: 20%;
+}
+
+.plant {
+  width: 900px;
   height: auto;
 }
