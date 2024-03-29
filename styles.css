@@ -44,19 +44,21 @@ h1 {
 
 .trash_area {
   position: absolute;
-  top: 50%;
-  left: 48%;
+  top: 69%;
+  left: 75%;
+  transform: translate(-50%, -50%);
 }
 
 .trash_can {
-  width: 100px;
+  width: 120px;
   height: auto;
 }
 
 .plant_area {
   position: absolute;
-  top: 19%;
-  left: 35%;
+  top: 49%;
+  left: 25%;
+  transform: translate(-50%, -50%);
 }
 
 .plant {
@@ -65,8 +67,10 @@ h1 {
 }
 
 .table_area {
-  display: flex;
-  justify-content: center;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .table {
